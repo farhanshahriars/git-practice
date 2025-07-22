@@ -1,0 +1,8 @@
+Provinces of Pakistan:
+1. Azad Kashmir
+2. Balochistan
+3. Gilgit Baltistan
+4. Islamabad Capital Territory
+5. Khyber Pakhtunkhwa
+6. Punjab
+7. Sindh
